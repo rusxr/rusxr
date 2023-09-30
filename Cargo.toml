@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "rusxr",
+  "rusxr_macros",
+  "rusxr_tests",
+]

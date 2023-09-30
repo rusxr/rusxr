@@ -1,0 +1,16 @@
+[package]
+name = "rusxr"
+version = "0.1.0"
+authors = ["gkhk <gkhk.zu@gmail.com>"]
+edition = "2021"
+description = "A rust implementation of jsx"
+readme = "../README.md"
+repository = ""
+keywords = ["jsx", "rsx", "html", "render", "template"]
+categories = ["template-engine", "compilers", "gui", "web-programming"]
+license = "MIT"
+license-file = "../LICENSE.txt"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
